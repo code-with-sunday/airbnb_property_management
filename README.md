@@ -35,7 +35,6 @@ The AirBnB Property Management System is designed to provide users with a conven
 * Spring Security
 * Hibernate
 * Spring Stater JPA
-* Javax Mail and Javax Mail Activation
 * Springdoc-Openapi
 * Jason Web Toke(JWT)
 * Lombok
