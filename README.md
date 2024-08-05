@@ -43,8 +43,6 @@ The AirBnB Property Management System is designed to provide users with a conven
 * Spring-boot starter test
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
