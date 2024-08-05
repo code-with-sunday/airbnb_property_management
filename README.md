@@ -59,22 +59,6 @@ This is a list of things you will need to use the software and how I got to work
 * Maven
 * Mysql
 
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://oauth:glpat-whMJBguVQBgxFiiqfCyM@gitlab.com/musala_soft/DEV_EVENT_BOOKING-493cd35a-b8f0-fd44-a544-778ff66c07cd.git
-   ```
-2. create pom.xml file to load maven
-   ```sh
-   add. 
-    
-   <?xml version="1.0" encoding="UTF-8"?>
-     ```
-     ```sh 
-   <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd"> <modelVersion>4.0.0</modelVersion>
-   ```
-
 
 <!-- USAGE EXAMPLES -->
 ## Features / Usage
